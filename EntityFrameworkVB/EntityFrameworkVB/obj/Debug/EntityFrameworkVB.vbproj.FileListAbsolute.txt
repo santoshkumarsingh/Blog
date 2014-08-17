@@ -1,0 +1,14 @@
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFrameworkVB.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFrameworkVB.pdb
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFrameworkVB.xml
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\obj\Debug\EntityFrameworkVB.Resources.resources
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\obj\Debug\EntityFrameworkVB.vbproj.GenerateResource.Cache
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\obj\Debug\EntityFrameworkVB.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\obj\Debug\EntityFrameworkVB.xml
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\obj\Debug\EntityFrameworkVB.pdb
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFrameworkVB.dll.config
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFramework.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFramework.xml
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\EntityFrameworkVB\EntityFrameworkVB\obj\Debug\EntityFrameworkVB.vbprojResolveAssemblyReference.cache
