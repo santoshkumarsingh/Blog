@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<form action="@Url.Action("AddComment", "Home")">
+    <h2>@Html.Raw(ViewBag.Message)</h2>
+    <textarea id="comment" name="comment"></textarea>
+    <br />
+    <input type="submit" value="Submit" />
+</form>
+
+
