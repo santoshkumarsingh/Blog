@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" 
+                   assembly="CustomerSite.DataStore.NHibernate"
+                   namespace="CustomerSite.DataStore.NHibernate">
+  <class name="Customer">
+    <id name="Id" column="Id">
+      <generator class="identity" />
+    </id>
+    <property name="FirstName" />
+    <property name="LastName" />
+    <property name="Address" />
+    <property name="Phone" />
+    <property name="CreditLimit" />
+    <property name="CustomerSince" />
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,9 @@
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\bin\Debug\CustomerSite.DataStore.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\bin\Debug\CustomerSite.DataStore.pdb
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\bin\Debug\EntityFramework.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\bin\Debug\EntityFramework.xml
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\obj\Debug\CustomerSite.DataStore.dll
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\obj\Debug\CustomerSite.DataStore.pdb
+C:\Users\francorobles\Documents\Visual Studio 2013\Projects\Blog\Tests\CustomerSite\CustomerSite.DataStore\obj\Debug\CustomerSite.DataStore.csprojResolveAssemblyReference.cache

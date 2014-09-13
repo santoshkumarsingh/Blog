@@ -1,0 +1,82 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Customers";
+}
+<div class="row container">
+    <h2>Customer List</h2>
+    <br />
+</div>
+
+<div data-bind="visible: formVisible" class="container col-md-12">
+    <div class="row margin-bottom-10">
+        @ViewBag.Message
+    </div>
+    <div class="row">
+        <div class="column">
+            First Name
+        </div>
+        <div class="column">
+            <input type="text" id="firstName" name="firstName" class="form-control" data-bind="value: firstName" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            Last Name
+        </div>
+        <div class="column">
+            <input type="text" id="lastName" name="lastName" class="form-control" data-bind="value: lastName" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            Address
+        </div>
+        <div class="column">
+            <input type="text" id="address" name="address" class="form-control" data-bind="value: address" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            Phone
+        </div>
+        <div class="column">
+            <input type="text" id="phone" name="phone" class="form-control" data-bind="value: phone" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            Credit Limit
+        </div>
+        <div class="column">
+            <input type="text" id="creditLimit" name="creditLimit" class="form-control" data-bind="value: creditLimit" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            Customer Since
+        </div>
+        <div class="column">
+            <input type="text" id="customerSince" name="customerSince" class="form-control" data-bind="value: customerSince" placeholder="yyyy-MM-dd" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            &nbsp;
+        </div>
+        <div class="column">
+            <input type="button" class="btn-info" value="Submit" data-bind="click: function() { submitForm() }" />
+            <input type="button" class="btn-danger" value="Cancel" data-bind="click: hideForm" />
+        </div>
+    </div>
+</div>
+<br />
+<div class="container col-md-12 margin-bottom-10 align-content-right">
+    <br />
+    <input type="button" class="btn-info" value="Add New Customer" data-bind="click: $root.showForm" /><br /><br />
+</div>
+<div id="customerlist" class="container col-md-12">
+    @Html.Action("CustomerList", "Home")
+</div>
+@section scripts {
+    <script src="~/Scripts/PageScripts/customers.js"></script>
+}
